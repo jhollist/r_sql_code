@@ -4,3 +4,4 @@ x <- rnorm()
 library(dplyr)
 # more comments
 # And even more comments
+4/0
